@@ -1,2 +1,2 @@
 # pyquil_src
-collection of pyquil source code
+collection of pyquil source codes
