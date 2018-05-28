@@ -23,7 +23,7 @@ qvm=api.QVMConnection()
 qprog = pq.Program()
 
 '''
-prepare Bell state
+prepare entangled qubits
 1:|0> --|H|--o----- |q0>
              |
 2:|0> ------(+)---- |q1>
